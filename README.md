@@ -1,9 +1,9 @@
 # API_Task
 This task is based on API fetching using programming language
 
-#Language Used
+# Language Used
 Java
 
-#Tools used
+# Tools used
 Postman
  
